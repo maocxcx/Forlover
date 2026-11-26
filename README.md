@@ -1,3 +1,9 @@
+> ⚠️ **本项目已迁移：Forlover 2.0 新仓库 → https://github.com/roccocx/Forlover**
+>
+> 这里是 SillyLi表白墙 V1（2019）的存档代码，不再更新。新版 V2.0（PHP 8 完全重构、支持后台一键升级）请前往新仓库获取。
+
+---
+
 # Forlover
 SillyLi表白告白墙程序
 
